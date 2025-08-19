@@ -1,0 +1,383 @@
+﻿en_name,zh_name
+cough,咳嗽  
+asthma,哮喘  
+chest pain,胸痛  
+shoulder pain,肩痛  
+arm pain,手臂痛  
+pain in the chest,胸部疼痛  
+fever,发热  
+bleeding,出血  
+elbow pain,肘痛  
+headache,头痛  
+facial paralysis,面瘫  
+wrist pain,腕痛  
+palm pain,手掌痛  
+sore throat,咽喉痛  
+coma,昏迷  
+toothache,牙痛  
+facial swelling,面部肿胀  
+finger pain,手指痛  
+eye pain,眼痛  
+tinnitus,耳鸣  
+nasal congestion,鼻塞  
+facial pain,面部疼痛  
+abdominal pain,腹痛  
+diarrhea,腹泻  
+numbness,麻木  
+motor impairment of upper limb,上肢运动障碍  
+skin diseases,皮肤病  
+numbness of upper limb,上肢麻木  
+paralysis of arm,手臂瘫痪  
+pain in the shoulder and arm,肩臂疼痛  
+frozen shoulder,肩周炎  
+neck stiffness,颈部僵硬  
+difficulty swallowing,吞咽困难  
+goiter,甲状腺肿  
+voice hoarseness,声音嘶哑  
+eye disorders,眼部疾病  
+tearing,流泪  
+eye twitching,眼睑抽搐  
+trigeminal neuralgia,三叉神经痛  
+drooling,流涎  
+jaw stiffness,颌部僵硬  
+dizziness,眩晕  
+hypertension,高血压  
+thyroid disorders,甲状腺疾病  
+neck swelling,颈部肿胀  
+neck pain,颈痛  
+swelling in neck region,颈部区域肿胀  
+chest congestion,胸闷  
+mastitis,乳腺炎  
+postpartum lactation deficiency,产后乳汁不足  
+breast pain,乳房痛  
+epigastric pain,上腹痛  
+abdominal distension,腹胀  
+nausea,恶心  
+stomach pain,胃痛  
+vomiting,呕吐  
+distension,胀气  
+borborygmus,肠鸣  
+irritability,烦躁  
+poor appetite,食欲不振  
+mania,躁狂  
+gastric pain,胃痛  
+epilepsy,癫痫  
+constipation,便秘  
+hernia,疝气  
+dysmenorrhea,痛经  
+lower abdominal pain,下腹痛  
+irregular menstruation,月经不调  
+seminal emission,遗精  
+urinary disorders,泌尿系统疾病  
+edema,水肿  
+gynecological disorders,妇科疾病  
+impotence,阳痿  
+pain in the thigh,大腿痛  
+muscular atrophy,肌肉萎缩  
+motor impairment of the lower limb,下肢运动障碍  
+leg weakness,腿部无力  
+knee pain,膝痛  
+weakness of knee,膝部无力  
+motor impairment,运动障碍  
+pain in the leg,腿痛  
+stomachache,胃痛  
+limited knee mobility,膝关节活动受限  
+swelling,肿胀  
+digestive disorders,消化系统疾病  
+general weakness,全身无力  
+pain and weakness of lower leg,小腿疼痛与无力  
+leg paralysis,腿部瘫痪  
+cough with phlegm,咳痰  
+ankle pain,踝痛  
+stomach ache,胃痛  
+nightmares,噩梦  
+uterine bleeding,子宫出血  
+febrile disease without sweating,无汗发热病  
+fatigue,疲劳  
+insomnia,失眠  
+thigh pain,大腿痛  
+muscle spasm,肌肉痉挛  
+circulatory issues,循环系统问题  
+hernia relief,疝气缓解  
+intestinal disorders,肠道疾病  
+rib pain,肋骨痛  
+digestive issues,消化问题  
+breast issues,乳房问题  
+arm paralysis,手臂瘫痪  
+chest tightness,胸闷  
+heart pain,心痛  
+palpitations,心悸  
+arm motor impairment,手臂运动障碍  
+sweating disorders,出汗异常  
+anxiety,焦虑  
+hand pain,手痛  
+lactation disorders,哺乳障碍  
+febrile diseases,发热病  
+malaria,疟疾  
+wrist sprain,腕部扭伤  
+hand numbness,手部麻木  
+blurred vision,视力模糊  
+arm numbness,手臂麻木  
+scapular stiffness,肩胛僵硬  
+limited shoulder movement,肩部活动受限  
+upper back pain,上背痛  
+upper back tension,上背紧张  
+upper back stiffness,上背僵硬  
+shoulder stiffness,肩部僵硬  
+hoarseness,声音嘶哑  
+swollen lymph nodes,淋巴结肿大  
+deafness,聾病  
+eye fatigue,眼疲劳  
+frontal pain,额部疼痛  
+sinusitis,鼻窦炎  
+eye strain,眼部疲劳  
+visual disturbances,视觉障碍  
+occipital headache,枕部头痛  
+blurry vision,视物模糊  
+bone disorders,骨骼疾病  
+common cold,感冒  
+heart disorders,心脏疾病  
+liver disorders,肝脏疾病  
+eye problems,眼部问题  
+gallbladder pain,胆囊痛  
+jaundice,黄疸  
+edema; lumbar pain,水肿；腰痛  
+kidney deficiency,肾虚  
+tinnitus; irregular menstruation,耳鸣；月经不调  
+intestinal rumbling,肠鸣  
+dysmenorrhea; leg weakness,痛经；腿部无力  
+diarrhea; lumbar stiffness,腹泻；腰部僵硬  
+enuresis,遗尿  
+frequent urination; sacral pain,尿频；骶骨痛  
+leukorrhea; sacral pain,白带；骶骨痛  
+dysuria; lumbar stiffness,排尿困难；腰部僵硬  
+hernia; sacral pain,疝气；骶骨痛  
+irregular menstruation; leg pain,月经不调；腿痛  
+prolapse; sacral pain,脱垂；骶骨痛  
+seminal emission; leg numbness,遗精；腿部麻木  
+dysuria,排尿困难  
+lumbosacral pain,腰骶痛  
+lower limb numbness,下肢麻木  
+hemorrhoids,痔疮  
+sciatica,坐骨神经痛  
+lower limb paralysis,下肢瘫痪  
+lumbocrural pain,腰腿痛  
+thigh muscle spasm,大腿肌肉痉挛  
+knee numbness,膝部麻木  
+calf cramp,小腿抽筋  
+cystitis,膀胱炎  
+leg cramp,腿部抽筋  
+lumbago,腰痛  
+heatstroke,中暑  
+erysipelas (bloodletting point),丹毒  
+stiff shoulders,肩部僵硬  
+tuberculosis,结核病  
+scapular pain,肩胛痛  
+chronic cough,慢性咳嗽  
+night sweating,夜间盗汗 
+back stiffness,背部僵硬  
+chest oppression,胸部压迫感  
+hiccups,打嗝  
+spinal stiffness,脊柱僵硬  
+hypochondriac pain,胁痛  
+red eyes,眼睛发红  
+abdominal cramping,腹部绞痛  
+bloating,腹胀  
+gastralgia,胃痛  
+nocturnal emission,遗精  
+lumbar pain,腰痛  
+urinary retention,尿潴留  
+limb paralysis,肢体瘫痪  
+calf pain,小腿痛  
+leg cramps,腿部抽筋  
+beriberi,脚气病  
+dystocia,难产  
+heel pain,足跟痛  
+insanity,精神错乱  
+infantile convulsions,小儿惊厥  
+lateral ankle pain,外踝痛  
+eye opacity,眼部浑浊  
+nosebleed,鼻出血  
+malpositioned fetus,胎位不正  
+syncope,晕厥  
+diabetes,糖尿病  
+urinary retention/heel pain/dementia,尿潴留/足跟痛/痴呆  
+night sweating,夜间盗汗  
+metrorrhagia,崩漏  
+testicular pain,睾丸痛  
+UTI,尿路感染  
+genital pain,生殖器疼痛  
+leukorrhea,白带  
+infertility,不孕症  
+penile pain,阴茎痛  
+diarrhea/lumbago,腹泻/腰痛  
+postpartum pain,产后疼痛  
+cardiac pain,心痛  
+belching,嗳气  
+chest distension,胸胀  
+insufficient lactation,乳汁不足  
+hypochondriac distension,胁部胀痛  
+febrile disorders,发热性疾病  
+bleeding disorders,出血性疾病  
+phlegm obstruction,痰阻  
+high fever,高热  
+delirium,谵妄  
+mouth ulcers,口腔溃疡  
+loss of consciousness,意识丧失  
+convulsions,抽搐  
+aphasia,失语  
+dry mouth/tongue,口干/舌干  
+arm/ elbow pain,手臂/肘部疼痛  
+eye disorders (e.g. cataract),眼部疾病（如白内障）  
+throat swelling,咽喉肿胀  
+cold limbs,四肢冰冷  
+gingival pain,牙龈痛  
+fevers without sweating,无汗发热  
+dizziness/headache,眩晕/头痛  
+elbow/arm pain,肘部/手臂疼痛  
+finger mobility issues,手指活动障碍  
+diabetes-like symptoms (polydipsia),糖尿病样症状（多饮）  
+dry mouth,口干  
+febrile cold-heat syndromes,寒热交替发热症  
+wrist injury,腕部损伤  
+shoulder/arm pain,肩部/手臂疼痛  
+impaired arm movement,手臂运动受限  
+elbow stiffness,肘部僵硬  
+fever without sweating,无汗发热  
+shoulder/arm heaviness,肩部/手臂沉重  
+lockjaw,破伤风  
+seizures,癫痫发作  
+external pathogens,外邪入侵  
+body pain,身体疼痛  
+aphonia,失声  
+lethargy,嗜睡  
+limb weakness,肢体无力  
+sudden asthma,突发哮喘  
+lower toothache/caries,下牙痛/龋齿  
+dyspnea,呼吸困难  
+arm/ shoulder pain,手臂/肩部疼痛  
+shoulder pain/stiffness,肩痛/僵硬  
+difficulty raising arm,抬臂困难  
+dressing issues,穿衣困难  
+wind-damp pain,风湿痛  
+febrile symptoms,发热症状  
+shoulder blade pain,肩胛痛  
+heavy shoulder,肩部沉重  
+shoulder/arm soreness,肩部/手臂酸痛  
+no sweating,无汗  
+stiff neck,颈部僵硬  
+ear/neck disorders,耳部/颈部疾病  
+facial paralysis/spasm,面瘫/痉挛  
+parotitis,腮腺炎  
+otitis media,中耳炎  
+facial/head pain,面部/头部疼痛  
+mouth asymmetry,口部不对称  
+pediatric convulsions (seizures),小儿惊厥（癫痫发作）  
+expectoration,咳痰  
+ear pain,耳痛  
+pediatric seizures,小儿癫痫  
+vomiting with salivation,呕吐伴流涎  
+migraine,偏头痛  
+gingival swelling,牙龈肿胀  
+ocular pain,眼部疼痛  
+oral disorders,口腔疾病  
+facial swelling/pain,面部肿胀/疼痛  
+ear blockage,耳部堵塞  
+TMJ disorders,颞下颌关节疾病  
+jaw/neck pain,颌部/颈部疼痛  
+oral/facial asymmetry,口腔/面部不对称  
+eye redness/swelling,眼睛红肿  
+eyelid twitching,眼睑抽搐  
+tearing in wind,迎风流泪  
+conjunctivitis,结膜炎  
+keratitis,角膜炎  
+optic atrophy,视神经萎缩  
+vision loss,视力丧失  
+night blindness,夜盲症  
+glaucoma,青光眼  
+cataract,白内障  
+dacryocystitis,泪囊炎  
+jaw pain,颌部疼痛  
+vertigo,眩晕  
+neck rigidity,颈部僵硬  
+vertex headache,头顶痛  
+frontal headache,额部头痛  
+sinus pain,鼻窦痛  
+parietal headache,颞部头痛  
+axillary pain,腋下痛  
+gallbladder disorders,胆囊疾病  
+kidney pain,肾痛  
+lateral abdominal pain,侧腹痛  
+menstrual disorders,月经疾病  
+lateral hip pain,侧髋痛  
+hip pain,髋部疼痛  
+leg pain,腿痛  
+muscle cramps,肌肉痉挛  
+muscle tightness,肌肉紧张  
+headaches,头痛  
+foot pain,足部疼痛  
+amenorrhea,闭经  
+prolapse,脱垂  
+menstrual issues,月经问题  
+red/swollen eyes,眼睛红肿  
+stroke,中风  
+chest/side pain,胸部/侧部疼痛  
+trauma,外伤  
+regulates menstruation,调经  
+chest/side distension,胸部/侧部胀痛  
+indigestion,消化不良  
+treats blood stasis like chest/side pain,治疗瘀血引起的胸部/侧部疼痛  
+leg disorders,腿部疾病  
+urinary/reproductive disorders,泌尿/生殖系统疾病  
+scrotal pain,阴囊痛  
+flank pain,胁痛  
+leg heaviness,腿部沉重  
+urinary issues,泌尿问题  
+acute chest/lateral rib pain,急性胸部/侧肋痛  
+liver/gallbladder conditions,肝胆疾病  
+liver Qi stagnation,肝气郁结  
+rectal prolapse,直肠脱垂  
+diarrhea/dysentery,腹泻/痢疾  
+low back & sacral pain,腰骶部疼痛  
+low back pain,腰痛  
+low back and sacral stiffness and pain,腰骶部僵硬疼痛  
+premature ejaculation,早泄  
+menstrual irregularity,月经不规律  
+back pain and spinal issues,背痛及脊柱问题  
+spinal pain and stiffness,脊柱疼痛及僵硬  
+shoulder/back and spinal disorders,肩部/背部及脊柱疾病  
+muscle contracture and back stiffness,肌肉挛缩及背部僵硬  
+muscular tension and stiffness in the back,背部肌肉紧张及僵硬  
+mental calm,精神平静  
+also used for back pain,也用于背痛  
+palpitation,心悸  
+and back pain,及背痛  
+shoulder/back stiffness,肩部/背部僵硬  
+neck/shoulder issues,颈部/肩部问题  
+shoulder/back pain,肩部/背部疼痛  
+speech loss,语言丧失  
+throat disorders,咽喉疾病  
+brain-related disorders,脑相关疾病  
+heaviness of head,头部沉重  
+hair loss,脱发  
+memory loss,记忆力减退  
+BP issues,血压问题  
+lip numbness,唇部麻木  
+speech problems,语言障碍  
+facial disorders,面部疾病  
+oral and dental disorders,口腔及牙齿疾病  
+nocturnal emissions,遗精  
+gynecological issues,妇科问题  
+menstrual irregularities,月经不调  
+prostate issues,前列腺问题  
+urination difficulty,排尿困难  
+menstrual disorder,月经紊乱  
+leucorrhea,白带异常  
+collapse,虚脱  
+cold syndrome,寒症  
+difficult urination,排尿困难  
+abdominal bloating,腹胀  
+loss of appetite,食欲丧失  
+chest fullness,胸部胀满  
+stiff tongue,舌头僵硬  
+facial deviation,面部偏斜
